@@ -1,24 +1,24 @@
 ### Hi there 👋 Welcome to my GitHub Profile!
 
-I'm **Prince Kumar Singh**, a passionate developer and tech enthusiast committed to building innovative solutions through code.
+I'm Prince Kumar Singh, a passionate developer and tech enthusiast committed to building innovative solutions through code.
 
 ---
 
 ## 🔭 About Me
-- 🌱 Currently learning **C, Web Development, and JavaScript**
-- 🚀 Passionate about creating interactive web applications
-- 💡 Interested in **speech recognition**, **weather apps**, and **web animations**
-- 👯 Looking to collaborate on **C programming** and **web development** projects
-- 💬 Ask me about Web Development, JavaScript, HTML & CSS
+- 🌱 Currently learning C++,DSA, React, and n8n.
+- 🚀 Passionate about creating interactive web applications.
+- 💡 Interested in Full Stack Web Developer | Building automation workflows with n8n.
+- 👯 Looking to collaborate on C++ programming,web development and n8n projects.
+- 💬 Ask me about C++,n8n,HTML,CSS,JavaScript,React,MySQL,Basic Data Structure.
 - 📫 Reach out: [GitHub](https://github.com/Princekumarsingh0117)
 
 ---
 
 ## 🛠️ Tech Stack
-**Languages:** HTML, CSS, JavaScript, C
+Languages: HTML, CSS, JavaScript, C++,React
 
-**Tools & Technologies:** 
-- Web Development (HTML, CSS, JavaScript)
+##Tools & Technologies:
+- Web Development (HTML, CSS, JavaScript,React,MySQL)
 - APIs (OpenWeatherMap API)
 - Version Control (Git & GitHub)
 - Deployment (Vercel)
